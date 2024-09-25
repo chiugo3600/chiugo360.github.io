@@ -1,1 +1,7 @@
-# chiugo360.github.io
+# Chiugo's Travels
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>
+  </head>
+</html>
